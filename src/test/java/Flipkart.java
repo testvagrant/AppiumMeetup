@@ -20,6 +20,7 @@ public class Flipkart {
         capabilities.setCapability("platformVersion", "8.0");
         capabilities.setCapability("appPackage", "com.flipkart.android");
         capabilities.setCapability("appActivity", "com.flipkart.android.SplashActivity");
+        capabilities.setCapability("autoGrantPermissions", true);
         capabilities.setCapability("app", System.getProperty("user.dir")
                 + "/src/test/resources/app/flipkart.apk");
 
@@ -40,11 +41,11 @@ public class Flipkart {
         List<WebElement> searchResults = driver.findElements(By.id("txt_title"));
         searchResults.get(0).click();
 
-
+        Thread.sleep(4000);
         List<WebElement> imageList = driver.findElements(By.xpath("//android.widget.ImageView"));
-        Thread.sleep(3000);
-        imageList.get(3).click();
+        imageList.get(0).click();
 
+        Thread.sleep(6000);
         WebElement buyNow = driver.findElement(By.xpath("//android.widget.TextView[@text='BUY NOW']"));
         wait.until(ExpectedConditions.visibilityOf(buyNow));
         buyNow.click();

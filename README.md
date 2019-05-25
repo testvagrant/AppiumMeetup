@@ -37,4 +37,11 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
   [Troubleshooting guide](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%205/README.md#Troubleshooting-guide)
   
-## Study   
+## Study Materials
+   [Appium documentation](http://appium.io/docs/en/about-appium/intro/)
+   [DZone tutorial](https://dzone.com/articles/appium-tutorial-for-complete-beginners)
+
+## Slef-Assesment
+    - Automate Buying a product. Add it to card, and verify its the same item and price which we want to order (Flipkart or amazon).
+    - Automate Buying the cheapest product. Add it to card, and verify its the same item and price which we want to order (Flipkart or amazon).
+    - Automate Booking a two way flight from next monday to sunday for 3 persons (MakeMyTrip, ClearTrip, or any app of your choice).

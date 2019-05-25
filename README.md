@@ -39,6 +39,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
   
 ## Study Materials
    [Appium documentation](http://appium.io/docs/en/about-appium/intro/)
+
    [DZone tutorial](https://dzone.com/articles/appium-tutorial-for-complete-beginners)
 
 ## Slef-Assesment

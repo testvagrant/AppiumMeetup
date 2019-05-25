@@ -12,22 +12,22 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    ``npm i -g appium-doctor``
 
 ## Verifying the Installation
-- Verify installation [here](https://github.com/thenishant/Getting_started_with_Mobile_Automation/tree/master/chapter%201) 
+- Verify installation [here](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md)
 
 ## Configurations
 - Environment variables
-   - [on macOS/Linux Distribution](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-macOS/on-Linux-distributions)
-   - [on Windows](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#on-Windows)
+   - [on macOS/Linux Distribution](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#on-macOS/on-Linux-distributions)
+   - [on Windows](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#on-Windows)
 - Connect device In USB debugging mode  
-   - [Enable Developer Option](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#Enable-Developer-Option)
-   - [To start USB Debugging mode](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#To-start-USB-Debugging-mode)
-   - [Verify Device Connected Properly With PC](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%202/README.md#To-start-USB-Debugging-mode)
+   - [Enable Developer Option](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Enable-Developer-Option)
+   - [To start USB Debugging mode](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#To-start-USB-Debugging-mode)
+   - [Verify Device Connected Properly With PC](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#To-start-USB-Debugging-mode)
 
 ## Last steps before writing test
 - Locating elements 
-    - [UiAutomatorViewer](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md#Locating-elements-using-UIAutomatorViewer)
-    - [Appium desktop](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md#Appium-Desktop)
-- [Capabilities](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%203/README.md#Desired-Capabilities)
+    - [UiAutomatorViewer](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Locating-elements-using-UIAutomatorViewer)
+    - [Appium desktop](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Appium-Desktop)
+- [Capabilities](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Desired-Capabilities)
 
 ## Writing code
     
@@ -35,7 +35,7 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
 ## Troubleshooting
 
-  [Troubleshooting guide](https://github.com/thenishant/Getting_started_with_Mobile_Automation/blob/master/chapter%205/README.md#Troubleshooting-guide)
+  [Troubleshooting guide](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Troubleshooting-guide)
   
 ## Study Materials
    [Appium documentation](http://appium.io/docs/en/about-appium/intro/)

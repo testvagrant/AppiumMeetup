@@ -43,4 +43,4 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
    [DZone tutorial](https://dzone.com/articles/appium-tutorial-for-complete-beginners)
 
 ## Self-Assessment    
-   Just in case for practice, there are some handful scenario which can be tried out [here](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Self-Assessment)
+   Just in case for practice, these are some scenarios which can be tried out [here](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Self-Assessment)

@@ -42,7 +42,5 @@ Simple repo to demonstrate "How to start with Mobile Automation" across platform
 
    [DZone tutorial](https://dzone.com/articles/appium-tutorial-for-complete-beginners)
 
-## Slef-Assesment
-    - Automate Buying a product. Add it to card, and verify its the same item and price which we want to order (Flipkart or amazon).
-    - Automate Buying the cheapest product. Add it to card, and verify its the same item and price which we want to order (Flipkart or amazon).
-    - Automate Booking a two way flight from next monday to sunday for 3 persons (MakeMyTrip, ClearTrip, or any app of your choice).
+## Self-Assessment    
+   Just in case for practice, there are some handful scenario which can be tried out [here](https://github.com/testvagrant/AppiumMeetup/blob/references/src/test/resources/references/README.md#Self-Assessment)

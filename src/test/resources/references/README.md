@@ -143,4 +143,26 @@ Use below commands to get
    Launchable Activity  
     ```aapt dump badging /path/to/apk  | grep launchable-activity:\ name```
     
+## Self-Assessment    
     
+- Automate Buying a product (Flipkart or amazon).
+    - Open app,
+    - Search for a mobile, store the name and price of that mobile somewhere,
+    - Add it to cart,
+    - Navigate to cart,
+    - Verify for the name and price of the watch, and make the test pass if everything matches else fail the test.
+    
+- Automate Buying the cheapest product (Flipkart or amazon).
+    - This is an enhancement for above assessment,
+    - Instead for selecting the first mobile, select cheapest one from the list,
+    - Verify for the name and price of the watch, and make the test pass if everything matches else fail the test.
+
+- Automate a return trip booking (MakeMyTrip, ClearTrip, or any app of your choice).
+    - Open app,
+    - Navigate to flight booking screen,
+    - Search for a flight from one place to another,
+    - Select traveller count as 3,
+    - Select travel date as next monday to friday,
+    - Save all the details in a class or enum,
+    - Navigate to checkout/Booking confirmation page,
+    - Check whether or not all the travel details are correct.
